@@ -58,34 +58,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Pinned Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LikhithaJuvvala&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikhithaJuvvala&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithaJuvvala&theme=default&hide_border=true" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-**[Job Pilot – Job Application Tracker](https://github.com/LikhithaJuvvala/job-pilot)**
+**Job Pilot – Job Application Tracker**
 REST API backend with authenticated CRUD operations for tracking job applications.
 `Node.js` `Express.js` `MongoDB` `JWT` `React` `Redux Toolkit`
 - Built a REST API with JWT-based authentication, isolating each user's data behind protected routes
 - Modeled users, jobs, and application-status entities in MongoDB with validated CRUD endpoints
 
-**[Spotify Clone – Music Streaming App](https://github.com/LikhithaJuvvala/spotify-clone)**
+**Spotify Clone – Music Streaming App**
 A music streaming interface powered by the Spotify Web API.
 `JavaScript` `React` `HTML5` `CSS3` `Spotify Web API`
 - Integrated the Spotify Web API to fetch and render 1,000+ tracks with real-time search and filtering
 - Built a custom HTML5 audio player and cut initial load time by 75% via lazy loading and memoized fetching
 
-> 💡 More projects and a backend + LLM integration project currently in progress — stay tuned!
+> 📌 See these and more pinned directly on my profile above, or browse all repos → [github.com/LikhithaJuvvala?tab=repositories](https://github.com/LikhithaJuvvala?tab=repositories)
 
 ---
 
