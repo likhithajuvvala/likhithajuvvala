@@ -5,6 +5,10 @@ on:
     - cron: "0 */6 * * *"   # refreshes every 6 hours
   workflow_dispatch: {}
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -12,6 +16,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v5
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
