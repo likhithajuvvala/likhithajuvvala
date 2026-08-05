@@ -89,11 +89,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/likhithajuvvala/DocuMind/issues/2) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
-2. 🎉 Merged PR [#7](https://github.com/likhithajuvvala/DocuMind/pull/7) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
-3. 💪 Opened PR [#7](https://github.com/likhithajuvvala/DocuMind/pull/7) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
-4. 🎉 Merged PR [#6](https://github.com/likhithajuvvala/DocuMind/pull/6) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
-5. 🔒 Closed issue [#1](https://github.com/likhithajuvvala/DocuMind/issues/1) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
+1. 🗣 Commented on [#3](https://github.com/likhithajuvvala/DocuMind/issues/3#issuecomment-5183784759) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
+2. 🔒 Closed issue [#3](https://github.com/likhithajuvvala/DocuMind/issues/3) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
+3. 🎉 Merged PR [#9](https://github.com/likhithajuvvala/DocuMind/pull/9) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
+4. 🔒 Closed issue [#5](https://github.com/likhithajuvvala/DocuMind/issues/5) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
+5. 💪 Opened PR [#9](https://github.com/likhithajuvvala/DocuMind/pull/9) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated every 6 hours via GitHub Actions — no manual edits needed</sub>
