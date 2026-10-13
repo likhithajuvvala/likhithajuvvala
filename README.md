@@ -89,7 +89,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/likhithajuvvala/DocuMind/pull/82) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
+1. 🚀 Published release [Leetcode to Github code push](https://github.com/likhithajuvvala/leetcode-github-sync/releases/tag/v1.0.0) in [likhithajuvvala/leetcode-github-sync](https://github.com/likhithajuvvala/leetcode-github-sync)
 2. 🔒 Closed issue [#49](https://github.com/likhithajuvvala/DocuMind/issues/49) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
 3. 💪 Opened PR [#82](https://github.com/likhithajuvvala/DocuMind/pull/82) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
 4. 🎉 Merged PR [#81](https://github.com/likhithajuvvala/DocuMind/pull/81) in [likhithajuvvala/DocuMind](https://github.com/likhithajuvvala/DocuMind)
